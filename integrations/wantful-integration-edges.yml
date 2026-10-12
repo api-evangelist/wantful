@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/wantful/integrations
+- https://n8n.io/integrations/wantful/
+- https://composio.dev/toolkits/wantful
+- https://monid.ai/tools/wantful
+checked:
+- https://composio.dev/toolkits/wantful
+- https://monid.ai/tools/wantful
+- https://n8n.io/integrations/wantful/
+- https://zapier.com/apps/wantful/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
